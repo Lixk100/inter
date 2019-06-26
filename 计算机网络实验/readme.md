@@ -29,15 +29,15 @@ Windows 操作系统 Packet Tracer 模拟器软件；
 1、给pc1, pc2加上无线网卡。
 （1）以pc1为例，先关闭计算机电源，将有线网卡去除加装无线网卡。
 
-![1561431635067](C:\Users\MI\AppData\Roaming\Typora\typora-user-images\1561431635067.png)
+![1561431635067](https://github.com/liytgy/inter/blob/master/1561431635067.png)
 
 2、配置路由器router0
 
 （1）设置f0/0,f0/1的IP及子网掩码
 
-![004](C:\Users\MI\Desktop\计算机网络\004.PNG)
+![004](https://github.com/liytgy/inter/blob/master/004.PNG)
 
-![005](C:\Users\MI\Desktop\计算机网络\005.PNG)
+![005](https://github.com/liytgy/inter/blob/master/005.PNG)
 
 3、在assess point0，tablet pc0和tablet pc1上配置同样的ssid=“ipdata”，在无线路由器及pc上设置相同的ssid="CCNA"，确保建立无线连接。
 
